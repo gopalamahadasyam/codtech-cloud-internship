@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"source\": \"AWS Lambda\", \"message\": \"Multi-cloud architecture working!\", \"aws_service\": \"Lambda\", \"gcp_service\": \"Cloud Functions\"}"}
